@@ -1,0 +1,14 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\bin\Debug\net8.0\integration.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\bin\Debug\net8.0\integration.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\bin\Debug\net8.0\integration.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\bin\Debug\net8.0\integration.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\bin\Debug\net8.0\integration.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\integration.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\integration.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\integration.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\integration.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\refint\integration.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\integration.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\integration.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\integration\obj\Debug\net8.0\ref\integration.dll
