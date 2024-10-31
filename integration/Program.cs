@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 class Program
 {
     
-    private static readonly HttpClient client = new HttpClient();
+    private static readonly HttpClient Client = new();
 
     static async Task Main(string[] args)
     {
         try
         {
-            string url = "http://localhost:3000/alunos";
+            Client.BaseAddress = new Uri("http://localhost:3000/alunos");
             
-            HttpResponseMessage response = await client.GetAsync(url);
+            HttpResponseMessage response = await Client.GetAsync(Client.BaseAddress);
             
             response.EnsureSuccessStatusCode();
             
