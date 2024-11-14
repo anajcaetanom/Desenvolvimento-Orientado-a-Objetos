@@ -1,0 +1,20 @@
+﻿{
+  "alunos": [
+    {
+      "nome": "João Silva",
+      "endereco": "Rua A, 123",
+      "disciplinas": [
+        { "nome": "Matemática", "nota": 8 },
+        { "nome": "História", "nota": 7 }
+      ]
+    },
+    {
+      "nome": "Maria Oliveira",
+      "endereco": "Rua B, 456",
+      "disciplinas": [
+        { "nome": "Português", "nota": 9 },
+        { "nome": "Ciências", "nota": 8 }
+      ]
+    }
+  ]
+}
