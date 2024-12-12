@@ -1,0 +1,15 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\bin\Debug\net8.0\interpreter.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\bin\Debug\net8.0\interpreter.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\bin\Debug\net8.0\interpreter.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\bin\Debug\net8.0\interpreter.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\bin\Debug\net8.0\interpreter.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.sourcelink.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\refint\interpreter.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\interpreter.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\interpreter\obj\Debug\net8.0\ref\interpreter.dll

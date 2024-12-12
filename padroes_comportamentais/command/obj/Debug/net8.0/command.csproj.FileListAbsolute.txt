@@ -1,0 +1,15 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\bin\Debug\net8.0\command.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\bin\Debug\net8.0\command.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\bin\Debug\net8.0\command.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\bin\Debug\net8.0\command.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\bin\Debug\net8.0\command.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.sourcelink.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\refint\command.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\command.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\command\obj\Debug\net8.0\ref\command.dll

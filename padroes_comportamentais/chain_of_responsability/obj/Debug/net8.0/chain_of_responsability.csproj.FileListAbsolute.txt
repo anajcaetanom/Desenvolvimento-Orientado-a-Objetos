@@ -1,0 +1,15 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\bin\Debug\net8.0\chain_of_responsability.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\bin\Debug\net8.0\chain_of_responsability.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\bin\Debug\net8.0\chain_of_responsability.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\bin\Debug\net8.0\chain_of_responsability.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\bin\Debug\net8.0\chain_of_responsability.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.sourcelink.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\refint\chain_of_responsability.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\chain_of_responsability.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\chain_of_responsability\obj\Debug\net8.0\ref\chain_of_responsability.dll
