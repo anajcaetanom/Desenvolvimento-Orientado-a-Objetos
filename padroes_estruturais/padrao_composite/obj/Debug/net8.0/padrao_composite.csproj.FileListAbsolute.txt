@@ -1,0 +1,15 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\bin\Debug\net8.0\padrao_composite.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\bin\Debug\net8.0\padrao_composite.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\bin\Debug\net8.0\padrao_composite.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\bin\Debug\net8.0\padrao_composite.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\bin\Debug\net8.0\padrao_composite.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.sourcelink.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\refint\padrao_composite.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\padrao_composite.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_composite\obj\Debug\net8.0\ref\padrao_composite.dll

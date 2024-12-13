@@ -1,0 +1,15 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\bin\Debug\net8.0\padrao_adapter.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\bin\Debug\net8.0\padrao_adapter.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\bin\Debug\net8.0\padrao_adapter.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\bin\Debug\net8.0\padrao_adapter.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\bin\Debug\net8.0\padrao_adapter.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.sourcelink.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\refint\padrao_adapter.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\padrao_adapter.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padrao_adapter\obj\Debug\net8.0\ref\padrao_adapter.dll
