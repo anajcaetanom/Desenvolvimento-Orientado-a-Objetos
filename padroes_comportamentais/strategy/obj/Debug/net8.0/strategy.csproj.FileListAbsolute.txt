@@ -1,0 +1,15 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\bin\Debug\net8.0\strategy.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\bin\Debug\net8.0\strategy.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\bin\Debug\net8.0\strategy.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\bin\Debug\net8.0\strategy.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\bin\Debug\net8.0\strategy.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.sourcelink.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\refint\strategy.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\strategy.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\strategy\obj\Debug\net8.0\ref\strategy.dll

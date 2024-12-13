@@ -1,0 +1,15 @@
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\bin\Debug\net8.0\visitor.exe
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\bin\Debug\net8.0\visitor.deps.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\bin\Debug\net8.0\visitor.runtimeconfig.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\bin\Debug\net8.0\visitor.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\bin\Debug\net8.0\visitor.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.AssemblyInfoInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.AssemblyInfo.cs
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.csproj.CoreCompileInputs.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.sourcelink.json
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\refint\visitor.dll
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.pdb
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\visitor.genruntimeconfig.cache
+C:\Users\jucae\RiderProjects\Desenvolvimento-Orientado-a-Objetos\padroes_comportamentais\visitor\obj\Debug\net8.0\ref\visitor.dll
