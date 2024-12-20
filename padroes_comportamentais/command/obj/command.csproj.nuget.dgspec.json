@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\command\\command.csproj": {}
+    "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/command/command.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\command\\command.csproj": {
+    "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/command/command.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\command\\command.csproj",
+        "projectUniqueName": "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/command/command.csproj",
         "projectName": "command",
-        "projectPath": "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\command\\command.csproj",
-        "packagesPath": "C:\\Users\\jucae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\command\\obj\\",
+        "projectPath": "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/command/command.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/command/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jucae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

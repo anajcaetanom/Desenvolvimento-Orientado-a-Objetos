@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jucae\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\mediator\\mediator.csproj",
+      "projectUniqueName": "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/mediator/mediator.csproj",
       "projectName": "mediator",
-      "projectPath": "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\mediator\\mediator.csproj",
-      "packagesPath": "C:\\Users\\jucae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\mediator\\obj\\",
+      "projectPath": "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/mediator/mediator.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/mediator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jucae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

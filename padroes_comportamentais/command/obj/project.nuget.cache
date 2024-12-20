@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "INVELIA6JC0=",
+  "dgSpecHash": "m7XioAUgJjM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jucae\\RiderProjects\\Desenvolvimento-Orientado-a-Objetos\\padroes_comportamentais\\command\\command.csproj",
+  "projectFilePath": "/workspaces/Desenvolvimento-Orientado-a-Objetos/padroes_comportamentais/command/command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
